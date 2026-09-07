@@ -8,14 +8,6 @@ The project demonstrates how traditional physical restaurant menus can be replac
 
 ---
 
-## 📸 Preview
-
-> Add screenshots or a live demo link here.
-
-![FoodHub Preview](./public/preview.png)
-
----
-
 # 🌟 Features
 
 * 🪑 Select from 12 restaurant tables
