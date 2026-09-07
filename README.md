@@ -743,15 +743,6 @@ This project is currently intended for educational and portfolio purposes.
 
 You can add an MIT License or another open-source license depending on your project requirements.
 
----
-
-# 👨‍💻 Author
-
-**Your Name**
-
-* GitHub: [@your-username](https://github.com/your-username)
-* LinkedIn: Add your LinkedIn profile
-* Portfolio: Add your portfolio website
 
 ---
 
